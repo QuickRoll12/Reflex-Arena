@@ -28,7 +28,7 @@ export default {
   },
 
   colors: {
-    background: '#14121f',
+    background: '#111111',
     backgroundAccent: '#3d2c8d',
     surface: 'rgba(255, 255, 255, 0.07)',
     text: '#fdfcff',
