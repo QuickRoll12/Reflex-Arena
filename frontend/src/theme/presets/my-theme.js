@@ -11,14 +11,14 @@
 //  Stuck? Paste this file into ChatGPT/Gemini with a prompt from docs/07-make-it-yours.md
 // ================================================================
 export default {
-  id: 'my-theme',
+  id: 'our-theme',
 
   gameTitle: 'Campus Chaos', // ← your game's name
   tagline: 'Do it only when Prof says. Proxy attendance will not save you.',
   logoEmoji: '🎓',
   commander: 'Prof says', // who gives the orders?
   verbs: { click: 'tap', double: 'double-tap', hold: 'hold' },
-  madeBy: 'Your Name', // ← shown in the footer. Put YOUR name here! ('' hides it)
+  madeBy: 'avv', // ← shown in the footer. Put YOUR name here! ('' hides it)
 
   pads: {
     red: { label: 'ASSIGNMENT', emoji: '📝', color: '#ef476f', tone: 329.63 },
@@ -46,7 +46,7 @@ export default {
   lostLifeIcon: '📕',
 
   ranks: {
-    Rookie: { name: 'Backbencher', emoji: '😴' },
+    Rookie: { name: 'middlebencher', emoji: '😴' },
     Sharp: { name: 'Class Rep', emoji: '🙋' },
     Lightning: { name: 'Topper', emoji: '🤓' },
     'Reflex God': { name: 'Gold Medalist', emoji: '🥇' },
