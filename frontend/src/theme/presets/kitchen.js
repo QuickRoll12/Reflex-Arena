@@ -1,10 +1,10 @@
-// MUMMY'S KITCHEN - obey only when Mummy says. Or face the chappal.
+// HIMANSHU'S KITCHEN - obey only when Himanshu orders. Or face the chappal.
 export default {
   id: 'kitchen',
-  gameTitle: "Mummy's Kitchen",
-  tagline: 'Do it only when Mummy says. Otherwise... chappal incoming 🩴',
+  gameTitle: " Test your chef reflexes in Himanshu's Royal Kitchen",
+  tagline: 'Do it only when Himanshu orders. Otherwise... chappal incoming 🩴',
   logoEmoji: '🍳',
-  commander: 'Mummy says',
+  commander: 'Himanshu orders',
   verbs: { click: 'grab', double: 'double-grab', hold: 'stir' },
   pads: {
     red: { label: 'MIRCHI', emoji: '🌶️', color: '#e63946', tone: 349.23 },
@@ -13,7 +13,7 @@ export default {
     yellow: { label: 'MANGO', emoji: '🥭', color: '#f4a261', tone: 587.33 },
   },
   colors: {
-    background: '#2b1a12',
+    background: '#0F172A',
     backgroundAccent: '#7a3b1d',
     surface: 'rgba(255, 236, 210, 0.08)',
     text: '#fff4e6',
@@ -31,16 +31,16 @@ export default {
     Rookie: { name: 'Kitchen Helper', emoji: '🧽' },
     Sharp: { name: 'Tadka Expert', emoji: '🔥' },
     Lightning: { name: 'Masterchef', emoji: '👨‍🍳' },
-    'Reflex God': { name: "Mummy's Favourite", emoji: '🥇' },
+    'Reflex God': { name: "Himanshu's Favourite", emoji: '🥇' },
   },
   messages: {
-    ok: ['Shabash! 👏', 'Perfect masala!', 'Good child 😇', 'Mummy is proud!'],
-    trapDodged: ['Smart! Mummy never said 😏', 'Not fooled, beta!'],
-    trap: ['Mummy did NOT say! 🩴', 'Who told you to touch it?! 😤'],
+    ok: ['Shabash! 👏', 'Perfect masala!', 'Good child 😇', 'Himanshu is proud!'],
+    trapDodged: ['Smart! Himanshu never said 😏', 'Not fooled, beta!'],
+    trap: ['Himanshu did NOT say! 🩴', 'Who told you to touch it?! 😤'],
     wrong_color: ['Arre, the OTHER one!', 'Wrong dabba! 🫙'],
     wrong_action: ['Listen properly! 👂'],
-    timeout: ['Mummy is waiting... 😤', 'Food is getting cold! 🥶'],
-    invalid_timing: ['Faster than Mummy? Impossible 🤨'],
+    timeout: ['Himanshu is waiting... 😤', 'Food is getting cold! 🥶'],
+    invalid_timing: ['Faster than Himanshu? Impossible 🤨'],
   },
   celebrationEmoji: ['🍛', '🥭', '☕', '🎉'],
 };

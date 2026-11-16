@@ -1,4 +1,4 @@
-// The big command text, e.g.  "Mummy says:  grab 🌶️ MIRCHI"
+// The big command text, e.g.  "Himanshu says:  grab 🌶️ MIRCHI"
 import { commandSentence, describeCommand } from '../lib/commandText.js';
 
 export default function CommandBanner({ command, theme, waiting }) {

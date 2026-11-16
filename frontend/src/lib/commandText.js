@@ -1,6 +1,6 @@
 // The server sends plain text like "Simon says: double-click BLUE".
 // This file turns that text into themed pieces, e.g.
-//   { commander: "Mummy says", verb: "double-grab", pad: { label: "CHAI", emoji: "☕" } }
+//   { commander: "Himanshu says", verb: "double-grab", pad: { label: "CHAI", emoji: "☕" } }
 // The backend never changes - only how the command LOOKS changes.
 
 const COMMAND_RE = /^(Simon says: )?(click|double-click|hold) (RED|BLUE|GREEN|YELLOW)$/i;

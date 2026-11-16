@@ -113,7 +113,7 @@ Open these files side by side and follow the numbers. Each file has **one job**.
 | `hooks/useServerStatus.js` | Is the backend awake? (Render free servers sleep) |
 | `api/client.js` | **The only file that calls the backend** |
 | `api/mockServer.js` | A fake backend in the browser, for building without a server |
-| `lib/commandText.js` | Turn "Simon says: click RED" into the themed "Mummy says: grab 🌶️ MIRCHI" |
+| `lib/commandText.js` | Turn "Simon says: click RED" into the themed "Himanshu says: grab 🌶️ MIRCHI" |
 | `lib/sound.js` | Beeps made by code (Web Audio API), no audio files |
 | `screens/*.jsx` | The 4 screens |
 | `components/*.jsx` | Reusable pieces: Pad, TimerBar, Hud, Toast... |

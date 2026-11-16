@@ -164,7 +164,7 @@ Nickname: trimmed, **2 to 16 characters** from letters, digits, space, `_`, `-`.
 | Stretch: hold | `Simon says: hold YELLOW` | **Simon says:** hold 🟡 YELLOW |
 | Stretch: don't | `Simon says: DON'T click` | **Simon says:** DON'T touch anything! |
 
-The frontend **translates** this text with the theme (`lib/commandText.js`). That's why you can turn the whole game into "Mummy says: grab 🌶️ MIRCHI" without touching the backend.
+The frontend **translates** this text with the theme (`lib/commandText.js`). That's why you can turn the whole game into "Himanshu says: grab 🌶️ MIRCHI" without touching the backend.
 
 ---
 

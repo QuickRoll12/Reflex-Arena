@@ -9,7 +9,7 @@ Server says:   "Simon says: double-click BLUE"
                          │
                 theme/presets/kitchen.js
                          ▼
-Player sees:   MUMMY SAYS:  double-grab ☕ CHAI
+Player sees:   HIMANSHU SAYS:  double-grab ☕ CHAI
 ```
 
 ---
@@ -38,7 +38,7 @@ import activeTheme from './presets/kitchen.js';
 | Preset | Game | Commander | Pads |
 |---|---|---|---|
 | `classic` | ⚡ Reflex Arena | Simon says | 🔴 🔵 🟢 🟡 |
-| `kitchen` | 🍳 Mummy's Kitchen | Mummy says | 🌶️ MIRCHI ☕ CHAI 🥬 PALAK 🥭 MANGO |
+| `kitchen` | 🍳 Himanshu's Kitchen | Himanshu says | 🌶️ MIRCHI ☕ CHAI 🥬 PALAK 🥭 MANGO |
 | `space` | 🚀 Mission Control | Commander says | 🪐 MARS 🌍 EARTH 👽 ALIEN ☀️ SUN |
 | `cricket` | 🏏 Captain's Call | Captain says | 🔴 BALL ⛑️ HELMET 🏟️ PITCH 🏆 TROPHY |
 | `hacker` | 💻 SUDO_SAYS.exe | sudo says | 🔥 FIREWALL 💾 DATABASE 🐛 BUG ⚡ POWER |
