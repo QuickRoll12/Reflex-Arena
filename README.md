@@ -1,4 +1,4 @@
-# ⚡ Reflex Arena
+# ⚡ Reflex-Arena
 
 **A Simon Says reflex game you build, ship to the internet, and make your own.**
 
