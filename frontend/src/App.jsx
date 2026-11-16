@@ -104,7 +104,7 @@ export default function App() {
         }
       />
 
-      {theme.madeBy && <footer className="footer">Made with 💜 by {theme.madeBy}</footer>}
+      {theme.madeBy && <footer className="footer">Made with 😻🫶🏻 by {theme.madeBy}</footer>}
     </div>
   );
 }
