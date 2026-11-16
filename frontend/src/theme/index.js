@@ -8,6 +8,6 @@
 //   Save the file and the game in your browser updates instantly.
 // ================================================================
 
-import activeTheme from './presets/space.js';
+import activeTheme from './presets/cricket.js';
 
 export default activeTheme;
