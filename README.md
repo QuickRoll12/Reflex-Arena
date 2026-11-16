@@ -30,7 +30,7 @@ This repository is the hands-on project for the **"From Idea to Production"** wo
 ## 🧰 Tech stack (MERN)
 
 | Layer | Tool | Where it runs | Free plan |
-|---|---|---|---|
+|---|---|---|-  --|   
 | **M**ongoDB | MongoDB Atlas + Mongoose | Atlas cloud | M0 cluster, free forever |
 | **E**xpress | Node.js + Express 5 | Render | Free web service |
 | **R**eact | React 19 + Vite | Vercel | Hobby plan |
