@@ -5,7 +5,7 @@
 > *"Simon says: tap RED."* Tap it, fast.
 > *"Tap GREEN  ."* Don't touch anything. Simon didn't say.
 
-15 rounds. 3 lives. Commands get faster and trickier. Your score goes on a live leaderboard that anyone with your link can play.
+15 rounds. 3 lives. Commands get faster,quicker, and trickier. Your score goes on a live leaderboard that anyone with your link can play.
 
 This repository is the hands-on project for the **"From Idea to Production"** workshop for 1st and 2nd year B.Tech students. You'll see how a frontend, a backend and a database connect, and you'll leave with **your own game live on the internet**.
 
