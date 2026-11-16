@@ -146,7 +146,7 @@ Full walkthrough: **[docs/03-run-locally.md](docs/03-run-locally.md)**
 
 **Ranks:** 🐣 Rookie (<1000) · 🎯 Sharp (1000+) · ⚡ Lightning (2500+) · 👑 Reflex God (4500+)
 
-Keyboard: keys **1 2 3 4** = red, blue, green, yellow.
+Keyboard: keys **1 2 3 4** = red, blue, green, yellow (or click/tap the pads directly on screen).
 
 ---
 
