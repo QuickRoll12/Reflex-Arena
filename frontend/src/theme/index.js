@@ -8,6 +8,6 @@
 //   Save the file and the game in your browser updates instantly.
 // ================================================================
 
-import activeTheme from './presets/hacker.js';
+import activeTheme from './presets/jay.js';
 
 export default activeTheme;
