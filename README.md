@@ -3,7 +3,7 @@
 **A Simon Says reflex game you build, ship to the internet, and make your own.**
 
 > *"Simon says: tap RED."* Tap it, fast.
-> *"Tap GREEN."* Don't touch anything. Simon didn't say.
+> *"Tap GREEN  ."* Don't touch anything. Simon didn't say.
 
 15 rounds. 3 lives. Commands get faster and trickier. Your score goes on a live leaderboard that anyone with your link can play.
 
