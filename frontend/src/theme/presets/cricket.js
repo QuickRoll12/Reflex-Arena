@@ -1,4 +1,5 @@
 // CAPTAIN'S CALL - only play the shot when Captain says.
+//ashmit tiwari 20202020
 export default {
   id: 'cricket',
   gameTitle: "Captain's Call",
@@ -14,14 +15,14 @@ export default {
   },
   colors: {
     background: '#062a1a',
-    backgroundAccent: '#0f5132',
-    surface: 'rgba(255, 255, 255, 0.07)',
+    backgroundAccent: '#1dde84ff',
+    surface: 'rgba(35, 219, 22, 0.07)',
     text: '#f0fdf4',
     muted: '#a7c9b1',
     primary: '#facc15',
     primaryText: '#062a1a',
     good: '#4ade80',
-    bad: '#f87171',
+    bad: '#71f8a0ff',
   },
   fontsUrl: 'https://fonts.googleapis.com/css2?family=Russo+One&family=Poppins:wght@400;600;800&display=swap',
   fonts: { display: "'Russo One', system-ui, sans-serif", body: "'Poppins', system-ui, sans-serif" },
