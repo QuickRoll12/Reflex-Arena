@@ -2,8 +2,8 @@
 
 **A Simon Says reflex game you build, ship to the internet, and make your own.**
 
-> *"Simon says: tap RED."* Tap it, fast.
-> *"Tap GREEN."* Don't touch anything. Simon didn't say.
+> *"Simon says: tap Green."* Tap it, fast.
+> *Red"Tap ."* Don't touch anything. Simon didn't say.
 
 15 rounds. 3 lives. Commands get faster and trickier. Your score goes on a live leaderboard that anyone with your link can play.
 
@@ -132,7 +132,7 @@ Full walkthrough: **[docs/03-run-locally.md](docs/03-run-locally.md)**
 
 | Command | What to do |
 |---|---|
-| **Simon says:** tap RED | Tap the red pad |
+| **Simon says:** tap Green | Tap the red pad |
 | **Simon says:** double-tap BLUE | Tap blue twice within 0.4 s |
 | Tap GREEN *(no "Simon says")* | 🚫 It's a trap: do nothing until the timer ends |
 
