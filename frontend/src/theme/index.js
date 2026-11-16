@@ -6,6 +6,8 @@
 //
 //   Or open presets/my-theme.js, make it your own, and import that.
 //   Save the file and the game in your browser updates instantly.
+//    hello infinix  
+//    infinite power 
 // ================================================================
 
 import activeTheme from './presets/kitchen.js';
