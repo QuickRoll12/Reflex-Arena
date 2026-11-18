@@ -13,6 +13,7 @@ export const config = {
   FEEDBACK_PAUSE_MS: 350, // keep it <= 350 or the server may reject timing
 
   // Network timeouts. A sleeping Render free server needs up to ~60 s to wake up.
+  // Hello to Himanshu
   WAKE_TIMEOUT_MS: 75000,
   ANSWER_TIMEOUT_MS: 10000,
 };
